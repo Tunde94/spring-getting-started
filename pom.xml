@@ -13,6 +13,9 @@
         <module>_2_json</module>
         <module>_3_dependency-injection</module>
         <module>_4_spring_dep_injection</module>
+        <module>_5_hello-service</module>
+        <module>_6_spring-aop</module>
+        <module>_7_spting-database-transactional</module>
     </modules>
 
     <properties>
